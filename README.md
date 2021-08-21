@@ -7,6 +7,6 @@
 ### One difficulty encountered was how to identify the range of goal, I figured out that I need to include lower boundaries and exclude the upper boundaries in each range to maintain all data in my analysis. The other one is how to choose data to be presented as Y-axis and X-axis. For "Outcomes Based on Goals", I don't need numbers in my chart, but only the percentage and goals, so when I choose data, I have delete numbers and select goal as X-axis and percentage as Y-axis.
 ## Results
 ### One is that both successful and failed outcomes increase in the early year until May, and then start to decrease and have relative equal number in December. The other one is canceled outcomes maintain at 3-4 in most months.
-### the larger the goal, the higer percentage of failed and lower percentage of success.
+### The larger the goal, the higer percentage of failed and lower percentage of success.
 ### The limitations are we don't know the relationship between successful outcomes in each month and goals. What makes May has high successful outcomes? Is that because we have smaller amount of goals?
 ### Some other possible graphs are bar chart with goals on the x-axis and numbers of successful and failed outcomes on the y-axis for each month. To do so, we have to create pivot table with different goals in rows, outcomes in column and values, filtered by date created conversion.
